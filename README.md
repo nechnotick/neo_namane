@@ -31,6 +31,10 @@
 ## Projects
 - 3D Printed Telescope
   - Description: Currently building a 3D printed telescope for astronomical observations.
+  
+- Machine Learning Model for Cosmological Data Analysis
+  - Description: Developing a machine learning model to analyze cosmological data and extract insights.
+  
 
 ## Skills
 - Data Analysis
@@ -41,4 +45,12 @@
 - Cosmology
 - LaTeX
 - Git & GitHub
+
+
+
+
+## Conferences Attended
+- [Conference Name] - [Year]
+  - Location: [Location]
+  - Presentation: [Title of Presentation]
 
