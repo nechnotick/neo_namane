@@ -9,6 +9,7 @@ Tutor - Rhodes University
 
 ### Papers
 Reconstructing f(R) gravity from a Chaplygin scalar field
+[Publication] (https://www.worldscientific.com/doi/epdf/10.1142/S0219887818500275)
 Oscillating cosmological correlations in f(R) gravity
 
 ### Projects
