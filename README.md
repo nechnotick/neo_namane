@@ -31,7 +31,7 @@
 ## Projects
 - 3D Printed Telescope
   - Description: Currently building a 3D printed telescope for astronomical observations.
-  - ![3D](/img/20240317115442.jpg)
+  - ![3D Telescope](/img/20240317115442.jpg)
   
 - Machine Learning Model for Cosmological Data Analysis
   - Description: Developing a machine learning model to analyze cosmological data and extract insights.  
