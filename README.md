@@ -8,9 +8,9 @@ Student Assistant -  North West University
 Tutor - Rhodes University
 
 ### Papers
-Reconstructing f(R) gravity from a Chaplygin scalar field
+1. Reconstructing f(R) gravity from a Chaplygin scalar field
 [Publication] (https://www.worldscientific.com/doi/epdf/10.1142/S0219887818500275)
-Oscillating cosmological correlations in f(R) gravity
+2. Oscillating cosmological correlations in f(R) gravity
 
 ### Projects
 Currently building a 3D printed telescope
