@@ -31,10 +31,10 @@
 ## Projects
 - 3D Printed Telescope
   - Description: Currently building a 3D printed telescope for astronomical observations.
+  - ![3D](/img/20240317115442.jpg)
   
 - Machine Learning Model for Cosmological Data Analysis
-  - Description: Developing a machine learning model to analyze cosmological data and extract insights.
-  
+  - Description: Developing a machine learning model to analyze cosmological data and extract insights.  
 
 ## Skills
 - Data Analysis
@@ -46,11 +46,8 @@
 - LaTeX
 - Git & GitHub
 
-
-
-
 ## Conferences Attended
-- [Conference Name] - [Year]
-  - Location: [Location]
-  - Presentation: [Title of Presentation]
+- African School of Fundamental Physics and Applications - 2016
+  - Location: Kigali, Rwanda
+  - Presentation: Big Crunch scenarios in f(R) gravitational theories
 
