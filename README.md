@@ -51,4 +51,14 @@
   - Location: Kigali, Rwanda
   - Presentation: Big Crunch scenarios in f(R) gravitational theories
   - ![Jessica and I](/img/Rwanda.jpg)
+- Beyond Concordance Model II- 2016
+  - Location: Cape Town, South Africa
+  - Presentation: NA 
+- BRICS Astrophysics, Gravity and Cosmology conference - 2018
+  - Location: Durban, South Africa
+  - Presentation: Oscillating cosmological correlations in f(R) gravity
+  - ![Group photo of delegates](/img/BRICS.jpg)
+- SARAO bursary conference - 2022
+  - Location: Vaal, South Africa
+  - Presentation: A MIGHTEE investigation of radio quiet AGN
 
