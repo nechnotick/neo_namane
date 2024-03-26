@@ -31,7 +31,7 @@
 
 ## Projects
 - 3D Printed Telescope
-  - Description: Currently building a 3D printed telescope for astronomical observations.
+  - Description: Currently building a 3D printed telescope for astronomical observations
   - ![3D Telescope](/img/20240317_115442.jpg)
   
 - Machine Learning Model for Cosmological Data Analysis
@@ -52,7 +52,7 @@
   - Location: Kigali, Rwanda
   - Presentation: Big Crunch scenarios in f(R) gravitational theories
   - ![Jessica and I](/img/Rwanda.jpg)
-- Beyond Concordance Model II- 2016
+- Beyond Concordance Model II - 2016
   - Location: Cape Town, South Africa
   - Presentation: NA 
 - BRICS Astrophysics, Gravity and Cosmology conference - 2018
