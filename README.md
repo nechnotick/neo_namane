@@ -1,17 +1,41 @@
-# Data Scientist
+# Data Scientist | Astrophysicist
 
-### Education
-Physics, MSc (Theoretical Cosmology and Observational Astrophysics)
+## About Me
+- **Name:** [Your Name]
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn Profile]
+- **Location:** [Your Location]
 
-### Work Experience
-Student Assistant -  North West University
-Tutor - Rhodes University
+## Education
+- MSc in Physics (Theoretical Cosmology and Observational Astrophysics)
+  - University: [University Name]
+  - Year: [Year of Graduation]
 
-### Papers
-1. Reconstructing f(R) gravity from a Chaplygin scalar field
-- [Publication] (https://www.worldscientific.com/doi/epdf/10.1142/S0219887818500275)
-3. Oscillating cosmological correlations in f(R) gravity
-- [Publication] (https://arxiv.org/abs/1807.11330)
+## Work Experience
+- Student Assistant
+  - North West University
+  - Duration: [Start Date] - [End Date]
+- Tutor
+  - Rhodes University
+  - Duration: [Start Date] - [End Date]
 
-### Projects
-Currently building a 3D printed telescope
+## Publications
+- Reconstructing f(R) gravity from a Chaplygin scalar field
+  - [Publication Link](https://www.worldscientific.com/doi/epdf/10.1142/S0219887818500275)
+- Oscillating cosmological correlations in f(R) gravity
+  - [Publication Link](https://arxiv.org/abs/1807.11330)
+
+## Projects
+- 3D Printed Telescope
+  - Description: Currently building a 3D printed telescope for astronomical observations.
+
+## Skills
+- Data Analysis
+- Statistical Modeling
+- Machine Learning
+- Python Programming
+- Astrophysics
+- Cosmology
+- LaTeX
+- Git & GitHub
+
