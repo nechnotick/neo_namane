@@ -1,23 +1,26 @@
 # Data Scientist | Astrophysicist
 
 ## About Me
-- **Name:** [Your Name]
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Location:** [Your Location]
+- **Name:** Neo Namane
+- **Email:** nechnotick@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/neo-namane/
+- **Location:** Johannesburg, South Africa
 
 ## Education
-- MSc in Physics (Theoretical Cosmology and Observational Astrophysics)
-  - University: [University Name]
-  - Year: [Year of Graduation]
+- MSc in Physics (Theoretical Cosmology)
+  - University: North West University
+  - Year: 2019
+- MSc in Physics (Observational Astrophysics)
+  - University: Rhodes University
+  - Year: 2024
 
 ## Work Experience
 - Student Assistant
   - North West University
-  - Duration: [Start Date] - [End Date]
+  - Duration: 2016 - 2019
 - Tutor
   - Rhodes University
-  - Duration: [Start Date] - [End Date]
+  - Duration: 2020 - 2020
 
 ## Publications
 - Reconstructing f(R) gravity from a Chaplygin scalar field
