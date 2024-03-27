@@ -71,6 +71,15 @@ of what the semi-classical limit entails within a spherically symmetric and homo
   - Location: Durban, South Africa
   - Presentation: Oscillating cosmological correlations in f(R) gravity
   - ![Group photo of delegates](/img/BRICS.jpg)
+- SARAO bursary conference - 2020
+  - Location: Virtual Conference, South Africa
+  - Presentation: A MIGHTEE investigation of radio quiet AGN
+<video width="640" height="360" controls>
+  <source src="/img/Copy of presentation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 - SARAO bursary conference - 2022
   - Location: Vaal, South Africa
   - Presentation: A MIGHTEE investigation of radio quiet AGN
