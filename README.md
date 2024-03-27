@@ -2,15 +2,15 @@
 
 ## About Me
 - **Name:** Neo Namane
-- **Email:** nechnotick@gmail.com
-- **Cellphone:** +27798399345
-- **LinkedIn:** https://www.linkedin.com/in/neo-namane/
-- **Facebook:** https://www.facebook.com/nechnotick/
-- **Twitter:** https://twitter.com/nechnotick/
-- **Instagram:** https://www.instagram.com/nechnotick/
+- **Email:** nechnotick@gmail.com 📧
+- **Cellphone:** +27798399345 📱
+- **LinkedIn:** https://www.linkedin.com/in/neo-namane/ 🔗
+- **Facebook:** https://www.facebook.com/nechnotick/ 📘
+- **Twitter:** https://twitter.com/nechnotick/ 🐦
+- **Instagram:** https://www.instagram.com/nechnotick/ 📷
 
 
-- **Location:** Johannesburg, South Africa
+- **Location:** Johannesburg, South Africa 🌍
 
 ## Education
 - MSc in Physics (Observational Astrophysics)
