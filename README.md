@@ -7,6 +7,9 @@
 - **LinkedIn:** https://www.linkedin.com/in/neo-namane/
 - **Location:** Johannesburg, South Africa
 
+## Logo
+<img src="img/Petworth.JPG" alt="Logo" style="border-radius: 50%;">
+
 ## Education
 - MSc in Physics (Observational Astrophysics)
   - University: Rhodes University
