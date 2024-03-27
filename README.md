@@ -8,6 +8,20 @@
 - **Location:** Johannesburg, South Africa
 
 ## Education
+- MSc in Physics (Observational Astrophysics)
+  - University: Rhodes University
+  - Year: 2024
+  - Abstract: This study is aimed at being an overview and investigation of the behaviour and morphol-
+ogy of radio quiet (RQ) active galactic nuclei (AGN) in the radio and optical/near-infrared
+(NIR) bands. It is hoped that a concise description of the relation that exists between
+accretion activity and star formation (SF) will be achieved through utilization of multi-
+wavelength astronomy analysis. This analysis includes the processing of data acquired from
+the MeerKAT International GHz Tiered Extragalactic Exploration survey (MIGHTEE), the
+Southern African Large Telescope (SALT), the Hyper Suprime Camera (HSC) mounted on
+the Subaru telescope and the VISTA telescope. In this thesis, several targets were observed
+using SALT spectroscopy, but a redshift of only one of them was obtained. Lastly, it was
+established that for the sample of RQ AGN studied, the AGN contribute a large fraction of
+the radio emission observed.
 - MSc in Physics (Theoretical Cosmology)
   - University: North West University
   - Year: 2019
@@ -28,20 +42,6 @@ existence to describe the relation that the three-metrics have with a self-inter
 known as a superspace. In this work, as an application to studies in Quantum Cosmology, an
 investigation of a non-relativistic quantum mechanical procedure during the radiation and matter
 dominated epochs is made within the context of f (R) gravitation.
-- MSc in Physics (Observational Astrophysics)
-  - University: Rhodes University
-  - Year: 2024
-  - Abstract: This study is aimed at being an overview and investigation of the behaviour and morphol-
-ogy of radio quiet (RQ) active galactic nuclei (AGN) in the radio and optical/near-infrared
-(NIR) bands. It is hoped that a concise description of the relation that exists between
-accretion activity and star formation (SF) will be achieved through utilization of multi-
-wavelength astronomy analysis. This analysis includes the processing of data acquired from
-the MeerKAT International GHz Tiered Extragalactic Exploration survey (MIGHTEE), the
-Southern African Large Telescope (SALT), the Hyper Suprime Camera (HSC) mounted on
-the Subaru telescope and the VISTA telescope. In this thesis, several targets were observed
-using SALT spectroscopy, but a redshift of only one of them was obtained. Lastly, it was
-established that for the sample of RQ AGN studied, the AGN contribute a large fraction of
-the radio emission observed.
 
 ## Work Experience
 - Student Assistant
