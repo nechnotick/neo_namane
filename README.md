@@ -3,24 +3,30 @@
 ## About Me
 - **Name:** Neo Namane
 - **Email:** nechnotick@gmail.com
+- **Cellphone:** +27798399345
 - **LinkedIn:** https://www.linkedin.com/in/neo-namane/
 - **Location:** Johannesburg, South Africa
 
 ## Education
-- MSc in Physics (Theoretical Cosmology)
-  - University: North West University
-  - Year: 2019
 - MSc in Physics (Observational Astrophysics)
   - University: Rhodes University
   - Year: 2024
+  - Abstract: This study is aimed at being an overview and investigation of the behaviour and morphology of radio quiet (RQ) active galactic nuclei (AGN) in the radio and optical/near-infrared (NIR) bands. It is hoped that a concise description of the relation that exists between accretion activity and star formation (SF) will be achieved through utilization of multi-wavelength astronomy analysis. This analysis includes the processing of data acquired from the MeerKAT International GHz Tiered Extragalactic Exploration survey (MIGHTEE), the Southern African Large Telescope (SALT), the Hyper Suprime Camera (HSC) mounted on the Subaru telescope and the VISTA telescope. In this thesis, several targets were observed using SALT spectroscopy, but a redshift of only one of them was obtained. Lastly, it was established that for the sample of RQ AGN studied, the AGN contribute a large fraction of the radio emission observed.
+- MSc in Physics (Theoretical Cosmology)
+  - University: North West University
+  - Year: 2019
+  - Abstract: Quantum theory and General Relativity are two of the most fundamental theories in Theoretical
+Physics. But so far, their successes rest only in their own realms of reality, namely the very small and
+the very large, respectively. In this work, current attempts in unifying the two theories within the framework of Quantum Gravity, and their subsequent applications to Quantum Cosmology will be reviewed. In analysing the basis afforded to both Quantum Mechanics and Cosmology, an investigation of techniques aimed at quantizing gravity is followed. The motivation for this work stems from the advancements made in Quantum Electrodynamics, in which Electromagnetism was successfully described relativistically in terms of the Special Theory of Relativity. This essentially proves the viability of the many histories approach and the numerous other means of universal quantization, in which the decoherence from quantum mechanical theory is explained through the explicit definition
+of what the semi-classical limit entails within a spherically symmetric and homogeneous universe. To deal with the inherent problem of time, a decomposition of spacetime into 3N spatial dimensions and one temporal one gives rise to the use of the Wheeler-DeWitt equation, which is effectively in existence to describe the relation that the three-metrics have with a self-interacting environment known as a superspace. In this work, as an application to studies in Quantum Cosmology, an investigation of a non-relativistic quantum mechanical procedure during the radiation and matter dominated epochs is made within the context of f(R) gravitation.
 
 ## Work Experience
 - Student Assistant
   - North West University
-  - Duration: 2016 - 2019
+  - Duration: Feb 2016 - Dec 2019
 - Tutor
   - Rhodes University
-  - Duration: 2020 - 2020
+  - Duration: Feb 2020 - Dec 2020
 
 ## Publications
 - Reconstructing f(R) gravity from a Chaplygin scalar field
@@ -30,11 +36,11 @@
 
 ## Projects
 - 3D Printed Telescope
-  - Description: Currently building a 3D printed telescope for astronomical observations.
+  - Description: Currently building a 3D printed telescope for astronomical observations
   - ![3D Telescope](/img/20240317_115442.jpg)
   
 - Machine Learning Model for Cosmological Data Analysis
-  - Description: Developing a machine learning model to analyze cosmological data and extract insights.  
+  - Description: Developing a machine learning model to identify and segment radio images
 
 ## Skills
 - Data Analysis
@@ -51,7 +57,7 @@
   - Location: Kigali, Rwanda
   - Presentation: Big Crunch scenarios in f(R) gravitational theories
   - ![Jessica and I](/img/Rwanda.jpg)
-- Beyond Concordance Model II- 2016
+- Beyond Concordance Model II - 2016
   - Location: Cape Town, South Africa
   - Presentation: NA 
 - BRICS Astrophysics, Gravity and Cosmology conference - 2018
