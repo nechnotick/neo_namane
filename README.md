@@ -74,7 +74,7 @@ of what the semi-classical limit entails within a spherically symmetric and homo
 - SARAO bursary conference - 2020
   - Location: Virtual Conference, South Africa
   - Presentation: A MIGHTEE investigation of radio quiet AGN
-[!SARAO Bursary Conference 2020](https://img.youtube.com/vi/_jkLQBqbYVA/0.jpg)](https://www.youtube.com/watch?v=_jkLQBqbYVA)
+[![SARAO Bursary Conference 2020](https://img.youtube.com/vi/_jkLQBqbYVA/0.jpg)](https://www.youtube.com/watch?v=_jkLQBqbYVA)
 
 - SARAO bursary conference - 2022
   - Location: Vaal, South Africa
