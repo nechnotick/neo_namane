@@ -1,6 +1,6 @@
-# Data Scientist | Astrophysicist
+# <span class="heading">Data Scientist | Astrophysicist</span>
 
-## About Me
+## <span class="sub-heading">About Me</span>
 - **Name:** Neo Namane
 - **Email:** nechnotick@gmail.com 📧
 - **Cellphone:** +27798399345 📱
