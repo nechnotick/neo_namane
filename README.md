@@ -14,12 +14,11 @@
 - Student Assistant
 - North-West University (NWU)
 - Duration: February 2016 - December 2019
-Collaborated with a team of educators and professionals to provide academic support and guidance to second-year students.
-Assisted in the development and implementation of course materials and curriculum enhancements. Conducted workshops and tutorials to reinforce key concepts and facilitate student understanding. Contributed to the assessment and evaluation processes to ensure academic standards and student progress.
+  Collaborated with a team of educators and professionals to provide academic support and guidance to second-year    students. Assisted in the development and implementation of course materials and curriculum enhancements.          Conducted workshops and tutorials to reinforce key concepts and facilitate student understanding. Contributed to   the assessment and evaluation processes to ensure academic standards and student progress.
 - Tutor
 - Rhodes University
 - Duration: February 2020 - December 2020
-Facilitated learning experiences for first-year students in a supportive and engaging environment. Provided personalized assistance and feedback to students to improve their understanding and academic performance. Designed and delivered tutoring sessions covering a range of subject areas. Collaborated with faculty members to align tutoring strategies with course objectives and learning outcomes.
+  Facilitated learning experiences for first-year students in a supportive and engaging environment. Provided        personalized assistance and feedback to students to improve their understanding and academic performance.          Designed and delivered tutoring sessions covering a range of subject areas. Collaborated with faculty members to   align tutoring strategies with course objectives and learning outcomes.
   
 ## Publications
 - Reconstructing f(R) gravity from a Chaplygin scalar field
